@@ -1,4 +1,4 @@
-[![TrustedMCP](https://trustedmcp.io/badge/eyrove-image-mcp.svg)](https://trustedmcp.io/)
+[![Featured on TrustedMCP](https://trustedmcp.io/badge/s/6gbkvyigpnfanrb0bvqz.svg)](https://trustedmcp.io/l/6gbkvyigpnfanrb0bvqz)
 
 # EYROVE
 
