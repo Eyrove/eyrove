@@ -8,7 +8,7 @@ Open any work and a detail panel shows the image, its model, aspect ratio, creat
 
 The generator at https://eyrove.com/en/free-ai-image-generator is free and needs no account, and downloads carry no platform watermark. Saved references, practical guides and a browser extension for analysing images on the web extend the workflow, and paid plans add points and concurrency. The interface runs in seven languages.
 
-![EYROVE inspiration wall](docs/app_inspiration.png)
+![EYROVE inspiration wall](app_inspiration.png)
 
 ## Links
 
@@ -30,7 +30,7 @@ The generator at https://eyrove.com/en/free-ai-image-generator is free and needs
 
 ## What it looks like
 
-![Detail panel with prompt, model and actions](docs/app_prompt_detail.png)
+![Detail panel with prompt, model and actions](app_prompt_detail.png)
 
 ## License
 
