@@ -25,7 +25,8 @@ For coding agents there is a local MCP server at https://eyrove.com/app?workspac
 - Product: https://eyrove.com
 - Prompt library: https://eyrove.com/app
 - Free generator, no account: https://eyrove.com/en/free-ai-image-generator
-- Chrome extension: https://eyrove.com/zh-cn/eyrove-prompt
+- Chrome extension page: https://eyrove.com/zh-cn/eyrove-prompt
+- Install from the Chrome Web Store: https://chromewebstore.google.com/detail/nmihhebahjiigmjddaadkcfjepjdhofl
 - SkillHub tools: https://eyrove.com/app?workspace=skills
 - MCP server: https://eyrove.com/app?workspace=mcp
 - Open-source BYOK extension: https://github.com/geslie1/eyrove-prompt-lite
