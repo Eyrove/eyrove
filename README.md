@@ -1,3 +1,5 @@
+[![TrustedMCP](https://trustedmcp.io/badge/eyrove-image-mcp.svg)](https://trustedmcp.io/)
+
 # EYROVE
 
 **100,000+ free AI image prompts, one prompt compared across models, and one-click recreation.**
@@ -42,6 +44,12 @@ For coding agents there is a local MCP server at https://eyrove.com/app?workspac
 | Languages | 7 |
 | Pricing | Free to browse and generate; paid plans add credits and concurrency |
 | Contact | support@eyrove.com |
+
+## Listed on
+
+[![Eyrove Prompt on ExtensionFinder](https://extensionfinder.io/badge/listed.svg)](https://extensionfinder.io/extension/eyrove-prompt)
+[![Featured on Extension Club](https://www.extensionclub.com/api/badge/eyrove-prompt?theme=light)](https://www.extensionclub.com/extension/eyrove-prompt?ref=badge)
+[![EYROVE on LetsLaunch](https://letslaunch.today/badge/eyrove.svg)](https://letslaunch.today/product/eyrove)
 
 ## License
 
